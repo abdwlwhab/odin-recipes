@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+}
+.home{
+ text-align: center;
+ font-size: 20px;
+ color: white;
+ padding: 20px;
+}
+.dis{
+    text-align: center;
+    font-size: 30px;
+    color: gray;
+    
+}
+ul{
+    color: aqua;
+    font-size: 25px;
+}
+
+ul a{
+    color: aqua;
+}
+li{
+    padding: 5px;
+    margin-bottom: 150px;
+}
